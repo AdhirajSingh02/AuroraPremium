@@ -1,0 +1,17 @@
+{
+  "name": "aurora-premium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aurora.js",
+  "scripts": {
+    "start": "node aurora.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.4.4",
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}
